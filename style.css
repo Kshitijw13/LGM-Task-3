@@ -1,0 +1,59 @@
+* {
+    outline: none;
+    box-sizing: border-box;
+    
+}
+
+#header {
+    background-color: rgb(22, 0, 31);
+    padding: 25px;
+    box-shadow: 10px 10px 10px;
+    color: rgb(249, 249, 249);
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+    font-variant: normal;
+    margin-top: 0px;
+}
+#heading {
+    font-size: 40px;
+}
+
+#productTable {
+    border-width: 2px;
+    border-color: cyan;
+    padding:0px
+}
+
+#displayTable {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+#OutputTable
+{
+    background-color: rgb(17, 79, 137);
+    color:rgb(255, 255, 251);
+    color: aliceblue;
+}
+#vertical {
+    border-left: 3px solid dimgray;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    text-align: right;
+}
+
+#image {
+    width: 150px;
+}
+
+#newData {
+    border-color: lightslategrey;
+}
+
+.form-group{
+    flex-wrap: nowrap;
+}
+
+
